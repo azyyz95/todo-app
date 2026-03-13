@@ -5,7 +5,7 @@
     <div class="sidebar">
       <div class="sidebar-logo">
         <i class="fas fa-check-double"></i>
-        <span>Taskify</span>
+        <span>AZIZ TDOD  </span>
       </div>
       <div class="sidebar-stats">
         <div class="stat-card">
